@@ -1,0 +1,6 @@
+{
+  "name": "Roka2d",
+  "tagline": "",
+  "body": "# Roka2D\r\n### visual novel engine based on JAVA\r\n\r\n***\r\n**## _Features:_**\r\n* own `.storyline` file format\r\n* .storyline constructor\r\n* flexibility\r\n\r\n***\r\n\r\n**## Supported platforms:**\r\n* Android\r\n* Windows (Windows Me or older)\r\n* PS4",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
